@@ -8,7 +8,7 @@
 		{
 			"id": "http://philstollery.micro.blog/2018/02/12/azure-data-lake.html",
 	      	
-			"content_html": "<p>** Azure Data Lake Analytics</p>\n\n<p>Found #bug with executing USQL in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the StartUp project, otherwise VS runs the last USQL script you opened. VS 2017 V15.5.6. </p>\n",
+			"content_html": "<h1 id=\"azure-data-lake-analytics\">Azure Data Lake Analytics</h1>\n\n<p>Found #bug with executing USQL in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the StartUp project, otherwise VS runs the last USQL script you opened. VS 2017 V15.5.6. </p>\n",
 			"date_published": "2018-02-12T16:02:00Z",
 			"url": "https://stollerys.co.uk/2018/02/12/azure-data-lake.html"
 		},
