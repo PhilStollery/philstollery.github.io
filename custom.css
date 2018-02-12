@@ -1,0 +1,4 @@
+body { font-family: "Inconsolata"; color: #CCC; background-color: #000; }
+.logo { font-size: 50px; font-weight: 700; color: #CCC; display: block; }
+.post-teaser__title { font-size: 22px; color: #CCC; }
+strong { color: #CCC; }
