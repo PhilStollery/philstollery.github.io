@@ -3,9 +3,9 @@
   <channel>
     <title>Phil Stollery</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/philstollery&quot;&gt;@philstollery on Micro.blog&lt;/a&gt;.</description>
-    <link>https://stollerys.co.uk/</link>
-    <pubDate>Mon, 12 Feb 2018 16:06:19 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2018 16:06:19 +0000</lastBuildDate>
+    <link>https://www.stollerys.co.uk/</link>
+    <pubDate>Tue, 13 Feb 2018 08:47:42 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2018 08:47:42 +0000</lastBuildDate>
     
       <item>
       	
@@ -14,7 +14,7 @@
 &lt;p&gt;Found #bug with executing USQL in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the StartUp project, otherwise VS runs the last USQL script you opened. VS 2017 V15.5.6. &lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Feb 2018 16:02:00 -0000</pubDate>
-        <link>https://stollerys.co.uk/2018/02/12/azure-data-lake.html</link>
+        <link>https://www.stollerys.co.uk/2018/02/12/azure-data-lake.html</link>
         <guid isPermaLink="true">http://philstollery.micro.blog/2018/02/12/azure-data-lake.html</guid>
       </item>
     
@@ -28,7 +28,7 @@
 &lt;p&gt;You can also find me on GitHub.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Feb 2018 09:07:00 -0000</pubDate>
-        <link>https://stollerys.co.uk/2018/02/12/sql-and-azurethis.html</link>
+        <link>https://www.stollerys.co.uk/2018/02/12/sql-and-azurethis.html</link>
         <guid isPermaLink="true">http://philstollery.micro.blog/2018/02/12/sql-and-azurethis.html</guid>
       </item>
     
