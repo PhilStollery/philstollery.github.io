@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Phil Stollery",
-	"home_page_url": "https://stollerys.co.uk/",
-	"feed_url": "https://stollerys.co.uk/feed.json",
+	"home_page_url": "https://www.stollerys.co.uk/",
+	"feed_url": "https://www.stollerys.co.uk/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<h1 id=\"azure-data-lake-analytics\">Azure Data Lake Analytics</h1>\n\n<p>Found #bug with executing USQL in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the StartUp project, otherwise VS runs the last USQL script you opened. VS 2017 V15.5.6. </p>\n",
 			"date_published": "2018-02-12T16:02:00Z",
-			"url": "https://stollerys.co.uk/2018/02/12/azure-data-lake.html"
+			"url": "https://www.stollerys.co.uk/2018/02/12/azure-data-lake.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<h1 id=\"sql-and-azure\">SQL and Azure</h1>\n<p>This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.</p>\n\n<p>If you want to discuss anything just <a href=\"https://micro.blog/philstollery\">@me</a> here.</p>\n\n<p>You can also find me on GitHub.</p>\n",
 			"date_published": "2018-02-12T09:07:00Z",
-			"url": "https://stollerys.co.uk/2018/02/12/sql-and-azurethis.html"
+			"url": "https://www.stollerys.co.uk/2018/02/12/sql-and-azurethis.html"
 		}
 		
 	]
