@@ -2,3 +2,27 @@ body { font-family: "Inconsolata"; color: #CCC; background-color: #000; }
 .logo { font-size: 50px; font-weight: 700; color: #CCC; display: block; }
 .post-teaser__title { font-size: 22px; color: #CCC; }
 strong { color: #CCC; }
+
+body p a {
+	color: #000;
+	background: #CCC;
+	margin-top: 4px;
+	padding: 0 4px;
+    text-decoration: none;
+}
+
+body p a:hover {
+	color: #000;
+	background: #FFF;
+	margin-top: 4px;
+	padding: 0 4px;
+	text-decoration: none;
+}
+
+.navigation a:hover {
+  color: #FFF;
+}
+
+h1 a:hover {
+  color: #FFF;
+}
