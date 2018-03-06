@@ -4,14 +4,16 @@
     <title>Phil Stollery</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/philstollery&quot;&gt;@philstollery on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.stollerys.co.uk/</link>
-    <pubDate>Fri, 02 Mar 2018 13:49:09 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Mar 2018 13:49:09 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 10:56:10 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 10:56:10 +0000</lastBuildDate>
     
       <item>
       	
-        <description>&lt;h1 id=&quot;azure-data-lake-analytics&quot;&gt;Azure Data Lake Analytics&lt;/h1&gt;
+        <title>Azure Data Lake Analytics</title>
+        
+        <description>&lt;p&gt;Found #bug with executing &lt;a href=&quot;https://msdn.microsoft.com/en-us/azure/data-lake-analytics/u-sql/u-sql-language-reference&quot;&gt;USQL&lt;/a&gt; in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/a1awth7y.aspx&quot;&gt;Startup project&lt;/a&gt;, otherwise VS runs the last USQL script you opened. &lt;/p&gt;
 
-&lt;p&gt;Found #bug with executing USQL in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the StartUp project, otherwise VS runs the last USQL script you opened. VS 2017 V15.5.6. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aka.ms/upgradevs2017&quot;&gt;&lt;code&gt;VS 2017 V15.5.6&lt;/code&gt;&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Feb 2018 16:02:00 -0000</pubDate>
         <link>https://www.stollerys.co.uk/2018/02/12/azure-data-lake.html</link>
@@ -20,12 +22,13 @@
     
       <item>
       	
-        <description>&lt;h1 id=&quot;sql-and-azure&quot;&gt;SQL and Azure&lt;/h1&gt;
-&lt;p&gt;This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.&lt;/p&gt;
+        <title>SQL and Azure</title>
+        
+        <description>&lt;p&gt;This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.&lt;/p&gt;
 
 &lt;p&gt;If you want to discuss anything just &lt;a href=&quot;https://micro.blog/philstollery&quot;&gt;@me&lt;/a&gt; here.&lt;/p&gt;
 
-&lt;p&gt;You can also find me on GitHub.&lt;/p&gt;
+&lt;p&gt;You can also find me on &lt;a href=&quot;[github.com/PhilStoll...](https://github.com/PhilStollery)&quot; title=&quot;philstollery&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Feb 2018 09:07:00 -0000</pubDate>
         <link>https://www.stollerys.co.uk/2018/02/12/sql-and-azurethis.html</link>
