@@ -2,7 +2,8 @@
 layout: post
 title: "SQL and Azure"
 microblog: false
-date: 2018-02-12 09:07 -0000
+audio: 
+date: 2018-02-12 10:07:29 +0100
 guid: http://philstollery.micro.blog/2018/02/12/sql-and-azurethis.html
 ---
 This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.
