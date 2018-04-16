@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2018-03-06 10:48 -0000
+date: 2018-03-06 11:48:34 +0100
 ---
 I've  been working with Microsoft Technologies since [1997](https://www.youtube.com/watch?v=SSbBvKaM6sk "Woo Hoo"), including Visual Basic, C++, .NET, Access, SharePoint and SQL Server. My many years of industry experience is backed by a degree in Computer Science.
 
