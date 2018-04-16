@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Phil Stollery</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/philstollery&quot;&gt;@philstollery on Micro.blog&lt;/a&gt;.</description>
+    <link>https://www.stollerys.co.uk/</link>
+    <pubDate>Mon, 16 Apr 2018 13:53:08 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Apr 2018 13:53:08 +0100</lastBuildDate>
+	<itunes:image href="https://micro.blog/philstollery/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>		
+	<language>en</language>
+    
+		
+    
+		
+    
+  </channel>
+</rss>
