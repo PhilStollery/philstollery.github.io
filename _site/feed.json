@@ -10,8 +10,8 @@
 	      	
 			"title": "Azure Data Lake Analytics",
 			
-			"content_html": "<p>Found #bug with executing <a href=\"https://msdn.microsoft.com/en-us/azure/data-lake-analytics/u-sql/u-sql-language-reference\">USQL</a> in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the <a href=\"https://msdn.microsoft.com/en-us/library/a1awth7y.aspx\">Startup project</a>, otherwise VS runs the last USQL script you opened. </p>\n\n<p><a href=\"https://aka.ms/upgradevs2017\"><code>VS 2017 V15.5.6</code></a>. </p>\n",
-			"date_published": "2018-02-12T16:02:00Z",
+			"content_html": "<p>Found #bug with executing <a href=\"https://msdn.microsoft.com/en-us/azure/data-lake-analytics/u-sql/u-sql-language-reference\">USQL</a> in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the <a href=\"https://msdn.microsoft.com/en-us/library/a1awth7y.aspx\">Startup project</a>, otherwise VS runs the last USQL script you opened.</p>\n\n<p><a href=\"https://aka.ms/upgradevs2017\"><code class=\"highlighter-rouge\">VS 2017 V15.5.6</code></a>.</p>\n",
+			"date_published": "2018-02-12T16:02:58+00:00",
 			"url": "https://www.stollerys.co.uk/2018/02/12/azure-data-lake.html"
 		},
 		
@@ -21,7 +21,7 @@
 			"title": "SQL and Azure",
 			
 			"content_html": "<p>This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.</p>\n\n<p>If you want to discuss anything just <a href=\"https://micro.blog/philstollery\">@me</a> here.</p>\n\n<p>You can also find me on <a href=\"[github.com/PhilStoll...](https://github.com/PhilStollery)\" title=\"philstollery\">GitHub</a>.</p>\n",
-			"date_published": "2018-02-12T09:07:00Z",
+			"date_published": "2018-02-12T09:07:29+00:00",
 			"url": "https://www.stollerys.co.uk/2018/02/12/sql-and-azurethis.html"
 		}
 		
