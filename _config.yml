@@ -17,6 +17,7 @@ baseurl: ""
 url: "https://www.stollerys.co.uk"
 markdown: "kramdown"
 username: "philstollery"
+microblog_user: "philstollery"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Phil Stollery"
@@ -30,5 +31,8 @@ github_username: ""
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "Zulu"
+timezone: "WET"
 site_id: "3017"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
