@@ -36,3 +36,4 @@ site_id: "3017"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
+itunes_author: "Phil Stollery"
