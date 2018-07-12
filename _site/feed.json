@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://philstollery.micro.blog/2018/07/12/microsoftazuregraphs-or-gremlinnet.html",
+	      	
+			"title": "Microsoft.Azure.Graphs or Gremlin.Net ",
+			
+			"content_html": "<p>What do you think is the current best practice for querying a graph database in Cosmos DB?</p>\n\n<p>If you said <strong>Gremlin.NET</strong>, you’d be right!</p>\n",
+			"date_published": "2018-07-12T14:14:48+01:00",
+			"url": "https://www.stollerys.co.uk/2018/07/12/microsoftazuregraphs-or-gremlinnet.html"
+		},
+		
+		{
 			"id": "http://philstollery.micro.blog/2018/02/12/azure-data-lake.html",
 	      	
 			"title": "Azure Data Lake Analytics",
