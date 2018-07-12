@@ -4,8 +4,21 @@
     <title>Phil Stollery</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/philstollery&quot;&gt;@philstollery on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.stollerys.co.uk/</link>
-    <pubDate>Sat, 30 Jun 2018 08:32:31 +0100</pubDate>
-    <lastBuildDate>Sat, 30 Jun 2018 08:32:31 +0100</lastBuildDate>
+    <pubDate>Thu, 12 Jul 2018 14:17:58 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Jul 2018 14:17:58 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <title>Microsoft.Azure.Graphs or Gremlin.Net </title>
+        
+        <description>&lt;p&gt;What do you think is the current best practice for querying a graph database in Cosmos DB?&lt;/p&gt;
+
+&lt;p&gt;If you said &lt;strong&gt;Gremlin.NET&lt;/strong&gt;, you’d be right!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Jul 2018 14:14:48 +0100</pubDate>
+        <link>https://www.stollerys.co.uk/2018/07/12/microsoftazuregraphs-or-gremlinnet.html</link>
+        <guid isPermaLink="true">http://philstollery.micro.blog/2018/07/12/microsoftazuregraphs-or-gremlinnet.html</guid>
+      </item>
     
       <item>
       	
