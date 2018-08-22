@@ -34,6 +34,9 @@ paginate_path: "/page/:num/"
 timezone: "WET"
 site_id: "3017"
 gems: ["jekyll-paginate"]
+itunes_description: ""
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Phil Stollery"
+itunes_email: ""
+podcast: false
