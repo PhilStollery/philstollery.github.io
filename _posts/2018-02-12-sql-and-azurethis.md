@@ -10,4 +10,4 @@ This will be the place for all my SQL and Azure tips. Problems, and hopefully so
 
 If you want to discuss anything just [@me](https://micro.blog/philstollery) here.
 
-You can also find me on [GitHub]([github.com/PhilStoll...](https://github.com/PhilStollery) "philstollery").
+You can also find me on [GitHub](https://github.com/PhilStollery) "philstollery").
