@@ -1,6 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Phil Stollery",
+	"icon": "https://micro.blog/philstollery/avatar.jpg",
 	"home_page_url": "https://www.stollerys.co.uk/",
 	"feed_url": "https://www.stollerys.co.uk/archive/index.json",
 	"items": [
