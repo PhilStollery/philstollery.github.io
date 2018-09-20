@@ -1,6 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Phil Stollery",
+	"icon": "https://micro.blog/philstollery/avatar.jpg",
 	"home_page_url": "https://www.stollerys.co.uk/",
 	"feed_url": "https://www.stollerys.co.uk/feed.json",
 	"items": [
@@ -38,7 +39,7 @@
 	      	
 			"title": "SQL and Azure",
 			
-			"content_html": "<p>This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.</p>\n\n<p>If you want to discuss anything just <a href=\"https://micro.blog/philstollery\">@me</a> here.</p>\n\n<p>You can also find me on <a href=\"[github.com/PhilStoll...](https://github.com/PhilStollery)\" title=\"philstollery\">GitHub</a>.</p>\n",
+			"content_html": "<p>This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.</p>\n\n<p>If you want to discuss anything just <a href=\"https://micro.blog/philstollery\">@me</a> here.</p>\n\n<p>You can also find me on <a href=\"https://github.com/PhilStollery\">GitHub</a> “philstollery”).</p>\n",
 			"date_published": "2018-02-12T09:07:29+00:00",
 			"url": "https://www.stollerys.co.uk/2018/02/12/sql-and-azurethis.html"
 		}
