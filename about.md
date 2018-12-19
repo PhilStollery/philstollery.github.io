@@ -10,6 +10,6 @@ I've  been working with Microsoft Technologies since [1997](https://www.youtube.
 
 I have been involved in the design, implementation, and management of all types of data platform including OLTP, data warehousing, and OLAP. This includes multiple disciplines including database design, ETL, Power BI, and reporting and using multiple languages including Transact-SQL.
 
-I am also an experienced developer of technical content. Recent projects include writing courses for the [SQL Server 2016](https://www.microsoft.com/en-us/learning/sql-training.aspx "I contributed to some courses") and [SQL Server 2017](https://www.microsoft.com/en-us/learning/course.aspx?cid=20768 "2017 revision") curricula.
+I am also an experienced developer of technical content. Recent projects include writing courses for the [SQL Server](https://www.microsoft.com/en-us/learning/sql-training.aspx "I contributed to some courses") both on premis and in Azure.
 
-Feel free to get in [touch](https://micro.blog/philstollery "my home on micro.blog").
+Feel free to get in [touch](mailto:phil@stollerys.co.uk "my home on micro.blog").
