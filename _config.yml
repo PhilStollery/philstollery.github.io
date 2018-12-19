@@ -10,33 +10,33 @@ highlighter: null
 # - markdown: kramdown
 
 title: "Phil Stollery"
-tagline: ""
-description: "Follow <a href=\"https://micro.blog/philstollery\">@philstollery on Micro.blog</a>."
-credits: "Follow <a href=\"https://micro.blog/philstollery\">@philstollery on Micro.blog</a>."
+tagline: "Allows on"
+description: "Static HTML - the fastest the web can offer."
+credits: "Based on a micro.blog template - I love those guys."
 baseurl: ""
 url: "https://www.stollerys.co.uk"
 markdown: "kramdown"
 username: "philstollery"
-microblog_user: "philstollery"
+microblog_user: ""
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Phil Stollery"
 name: "Phil Stollery"
 gravatar_hash: "39d51f68845d7a838c1293d6862fd91c"
-avatar: "https://micro.blog/philstollery/avatar.jpg"
+avatar: ""
 full_name: "Phil Stollery"
 bio: ""
 twitter_username: ""
-github_username: ""
+github_username: "philstollery"
 instagram_username: ""
-paginate: 20
+paginate: 10
 paginate_path: "/page/:num/"
 timezone: "WET"
 site_id: "3017"
 gems: ["jekyll-paginate"]
 itunes_description: ""
-itunes_category: "Society & Culture"
-itunes_subcategory: "Personal Journals"
-itunes_author: "Phil Stollery"
+itunes_category: ""
+itunes_subcategory: ""
+itunes_author: ""
 itunes_email: ""
 podcast: false
