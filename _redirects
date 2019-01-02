@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://musing-bassi-2b487a.netlify.com/* http://stollerys.co.uk/:splat 301!
