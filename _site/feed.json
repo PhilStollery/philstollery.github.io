@@ -2,16 +2,24 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Phil Stollery",
 	"icon": "https://micro.blog/philstollery/avatar.jpg",
-	"home_page_url": "https://www.stollerys.co.uk/",
-	"feed_url": "https://www.stollerys.co.uk/feed.json",
+	"home_page_url": "http://localhost:4000/",
+	"feed_url": "http://localhost:4000/feed.json",
 	"items": [
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>When I started this twitter replacement, it was just a way to capture things I was finding whilst working. SQL stuff, Azure stuf, and now static HTML.</p>\n\n<p>GitHub is my source control repository, push my commits causing Netlify to kick into action and boom, my website is updated.</p>\n\n<p>Isn’t technology amazing.</p>\n",
+			"date_published": "2019-01-07T00:00:00+00:00",
+			"url": "http://localhost:4000/2019/01/07/now-hosted-on-netlify.html"
+		},
 		
 		{
 			"id": "http://philstollery.micro.blog/2018/09/21/my-evolution-overcast.html",
 	      	
 			"content_html": "<p>My evolution: \n_Overcast (subscriber) \n_Castro (subscriber)\n_Pocket Casts (paid for online and iOS)</p>\n",
 			"date_published": "2018-09-21T13:35:44+01:00",
-			"url": "https://www.stollerys.co.uk/2018/09/21/my-evolution-overcast.html"
+			"url": "http://localhost:4000/2018/09/21/my-evolution-overcast.html"
 		},
 		
 		{
@@ -19,7 +27,7 @@
 	      	
 			"content_html": "<p>#sql I think there’s an echo - anyone a SQL person on here?</p>\n",
 			"date_published": "2018-08-21T21:41:22+01:00",
-			"url": "https://www.stollerys.co.uk/2018/08/21/sql-i-think.html"
+			"url": "http://localhost:4000/2018/08/21/sql-i-think.html"
 		},
 		
 		{
@@ -29,7 +37,7 @@
 			
 			"content_html": "<p>What do you think is the current best practice for querying a graph database in Cosmos DB?</p>\n\n<p>If you said <strong>Gremlin.NET</strong>, you’d be right!</p>\n",
 			"date_published": "2018-07-12T14:14:48+01:00",
-			"url": "https://www.stollerys.co.uk/2018/07/12/microsoftazuregraphs-or-gremlinnet.html"
+			"url": "http://localhost:4000/2018/07/12/microsoftazuregraphs-or-gremlinnet.html"
 		},
 		
 		{
@@ -39,7 +47,7 @@
 			
 			"content_html": "<p>Found #bug with executing <a href=\"https://msdn.microsoft.com/en-us/azure/data-lake-analytics/u-sql/u-sql-language-reference\">USQL</a> in a Visual Studio Solution. If you have multiple projects, you need to set the project with the script you want to run as the <a href=\"https://msdn.microsoft.com/en-us/library/a1awth7y.aspx\">Startup project</a>, otherwise VS runs the last USQL script you opened.</p>\n\n<p><a href=\"https://aka.ms/upgradevs2017\"><code class=\"highlighter-rouge\">VS 2017 V15.5.6</code></a>.</p>\n",
 			"date_published": "2018-02-12T16:02:58+00:00",
-			"url": "https://www.stollerys.co.uk/2018/02/12/azure-data-lake.html"
+			"url": "http://localhost:4000/2018/02/12/azure-data-lake.html"
 		},
 		
 		{
@@ -49,7 +57,7 @@
 			
 			"content_html": "<p>This will be the place for all my SQL and Azure tips. Problems, and hopefully solutions, I find.</p>\n\n<p>If you want to discuss anything just <a href=\"https://micro.blog/philstollery\">@me</a> here.</p>\n\n<p>You can also find me on <a href=\"https://github.com/PhilStollery\">GitHub</a> “philstollery”).</p>\n",
 			"date_published": "2018-02-12T09:07:29+00:00",
-			"url": "https://www.stollerys.co.uk/2018/02/12/sql-and-azurethis.html"
+			"url": "http://localhost:4000/2018/02/12/sql-and-azurethis.html"
 		}
 		
 	]

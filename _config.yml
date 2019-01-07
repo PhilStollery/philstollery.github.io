@@ -33,7 +33,7 @@ paginate: 10
 paginate_path: "/page/:num/"
 timezone: "WET"
 site_id: "3017"
-gems: ["jekyll-paginate"]
+plugins: ["jekyll-paginate"]
 itunes_description: ""
 itunes_category: ""
 itunes_subcategory: ""
