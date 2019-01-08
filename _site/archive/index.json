@@ -2,62 +2,68 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Phil Stollery",
 	"icon": "https://micro.blog/philstollery/avatar.jpg",
-	"home_page_url": "http://localhost:4000/",
-	"feed_url": "http://localhost:4000/archive/index.json",
+	"home_page_url": "https://stollerys.co.uk/",
+	"feed_url": "https://stollerys.co.uk/archive/index.json",
 	"items": [
 		
 		{
-			"id": "",
+			"id": "/2019/01/07/my-evolution-overcast.html",
 	      	
+			"title": "Now hosted on Netlify",
+			
 			"content_text": "When I started this twitter replacement, it was just a...",
 			"date_published": "2019-01-07T00:00:00+00:00",
-			"url": "http://localhost:4000/2019/01/07/now-hosted-on-netlify.html"
+			"url": "https://stollerys.co.uk/2019/01/07/now-hosted-on-netlify.html"
 		},
 		
 		{
-			"id": "http://philstollery.micro.blog/2018/09/21/my-evolution-overcast.html",
+			"id": "/2018/09/21/my-evolution-overcast.html",
 	      	
+			"title": "My Evolution Overcast",
+			
 			"content_text": "My evolution: _Overcast (subscriber) _Castro (subscriber) _Pocket Casts (paid for...",
 			"date_published": "2018-09-21T13:35:44+01:00",
-			"url": "http://localhost:4000/2018/09/21/my-evolution-overcast.html"
+			"url": "https://stollerys.co.uk/2018/09/21/my-evolution-overcast.html"
 		},
 		
 		{
-			"id": "http://philstollery.micro.blog/2018/08/21/sql-i-think.html",
+			"id": "/2018/08/21/sql-i-think.html",
 	      	
+			"title": "Sql I Think",
+			
 			"content_text": "#sql I think there’s an echo - anyone a SQL...",
 			"date_published": "2018-08-21T21:41:22+01:00",
-			"url": "http://localhost:4000/2018/08/21/sql-i-think.html"
+			"url": "https://stollerys.co.uk/2018/08/21/sql-i-think.html"
 		},
 		
 		{
-			"id": "http://philstollery.micro.blog/2018/07/12/microsoftazuregraphs-or-gremlinnet.html",
+			"id": "/2018/07/12/microsoftazuregraphs-or-gremlinnet.html",
 	      	
 			"title": "Microsoft.Azure.Graphs or Gremlin.Net ",
 			
 			"content_text": "What do you think is the current best practice for...",
 			"date_published": "2018-07-12T14:14:48+01:00",
-			"url": "http://localhost:4000/2018/07/12/microsoftazuregraphs-or-gremlinnet.html"
+			"url": "https://stollerys.co.uk/2018/07/12/microsoftazuregraphs-or-gremlinnet.html"
 		},
 		
 		{
-			"id": "http://philstollery.micro.blog/2018/02/12/azure-data-lake.html",
+			"id": "/2018/02/12/azure-data-lake.html",
 	      	
 			"title": "Azure Data Lake Analytics",
 			
 			"content_text": "Found #bug with executing USQL in a Visual Studio Solution....",
 			"date_published": "2018-02-12T16:02:58+00:00",
-			"url": "http://localhost:4000/2018/02/12/azure-data-lake.html"
+			"url": "https://stollerys.co.uk/2018/02/12/azure-data-lake.html"
 		},
 		
 		{
-			"id": "http://philstollery.micro.blog/2018/02/12/sql-and-azurethis.html",
+			"id": "/2018/02/12/sql-and-azurethis.html",
 	      	
 			"title": "SQL and Azure",
 			
 			"content_text": "This will be the place for all my SQL and...",
 			"date_published": "2018-02-12T09:07:29+00:00",
-			"url": "http://localhost:4000/2018/02/12/sql-and-azurethis.html"
+			"url": "https://stollerys.co.uk/2018/02/12/sql-and-azurethis.html"
 		}
 		
 	]

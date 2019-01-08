@@ -1,9 +1,10 @@
 ---
 layout: post
-microblog: true
+microblog: false
 title: Now hosted on Netlify
 categories: [blog, tech]
 tags: [hot, summer]
+guid: /2019/01/07/my-evolution-overcast.html
 ---
 When I started this twitter replacement, it was just a way to capture things I was finding whilst working. SQL stuff, Azure stuf, and now static HTML. 
 
