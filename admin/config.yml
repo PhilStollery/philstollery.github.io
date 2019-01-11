@@ -10,8 +10,9 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Layout", name: "layout", widget: "string", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Microblog", name: "microblog", widget: "hidden", default: "false"}
-      - {label: "Body", name: "", widget: "markdown", default: "# Enter your post here"}     
+      - {label: "Microblog", name: "microblog", widget: "string", default: "false"}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}   
