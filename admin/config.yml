@@ -14,4 +14,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "microblog", widget: "hidden", default: "false"}
+      - {label: "Microblog", name: "microblog", widget: "hidden", default: "false"}
+      - {label: "Body", name: "", widget: "markdown", default: "# Enter your post here"}     
