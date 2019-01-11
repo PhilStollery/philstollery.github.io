@@ -11,7 +11,7 @@
 	      	
 			"title": "Now hosted on Netlify",
 			
-			"content_html": "<p>When I started this twitter replacement, it was just a way to capture things I was finding whilst working. SQL stuff, Azure stuf, and now static HTML.</p>\n\n<p>GitHub is my source control repository, push my commits causing Netlify to kick into action and boom, my website is updated.</p>\n\n<p>Isn’t technology amazing.</p>\n",
+			"content_html": "<p>When I started this twitter replacement, it was just a way to capture things I was finding whilst working. SQL stuff, Azure stuf, and now static HTML.</p>\n\n<p>GitHub is my source control repository, push my commits causing Netlify to kick into action and boom, my website is updated. From Push to Build in one commit.</p>\n\n<p>Isn’t technology amazing.</p>\n",
 			"date_published": "2019-01-07T00:00:00+00:00",
 			"url": "https://stollerys.co.uk/2019/01/07/now-hosted-on-netlify.html"
 		},
