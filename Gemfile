@@ -6,4 +6,3 @@ git_source(:github) {|repo_name| "https://github.com/PhilStollery/philstollery.g
 
 gem "jekyll"
 gem "jekyll-paginate"
-gem "github-pages"
