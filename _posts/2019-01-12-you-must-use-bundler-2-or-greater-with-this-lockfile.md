@@ -17,16 +17,18 @@ I could not get it to build - the errors:
 
 The Gemfile.lock had this line at the bottom:
 
-BUNDLED WITH
+BUNDLED WITH<br/>
    2.0.1
 
-So what was wrong I was building with Bundler 2. The problem is I was building with Bundler 2, but Netlify build servers are currently using 1.17.1. So gem uninstall bundler and use:
+So what was wrong, I was building my site with Bundler 2. 
+
+The problem was I was building with Bundler 2, but Netlify build servers are currently using **1.17.1**. Thus Netlify build servers are currently out of date. So on my machine the fix is to run gem uninstall bundler and then use:
 
 gem install -v 1.17.1
 
-Delete the Gemfile.lock, and re-run bindler install. You should now have this in the Gemfile.lock:
+Delete the Gemfile.lock, and re-run bundler install. You should now have this in the Gemfile.lock:
 
-BUNDLED WITH
+BUNDLED WITH<br/>
    1.17.2
 
 Push to GitHub and the build should work.
