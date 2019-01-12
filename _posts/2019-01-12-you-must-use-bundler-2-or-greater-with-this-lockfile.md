@@ -9,11 +9,12 @@ Are you using Jekyll post build actions on Netlify? I was, had updated by build 
 
 I could not get it to build - the errors:
 
-7:41:05 PM: You must use **Bundler 2** or greater with this lockfile.
-7:41:05 PM: Error during gem install
-7:41:05 PM: Error running command: Build script returned non-zero exit code: 1
-7:41:05 PM: Failing build: Failed to build site
-7:41:05 PM: failed during stage 'building site': Build script returned non-zero exit code: 1
+7:41:05 PM: You must use **Bundler 2** or greater with this lockfile.<br/>
+7:41:05 PM: Error during gem install<br/>
+7:41:05 PM: Error running command: Build script returned non-zero exit code: 1<br/>
+7:41:05 PM: Failing build: Failed to build site<br/>
+7:41:05 PM: failed during stage 'building site': Build script<br/>
+returned non-zero exit code: 1<br/>
 
 The Gemfile.lock had this line at the bottom:
 
