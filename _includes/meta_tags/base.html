@@ -5,24 +5,16 @@
 <!--
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 -->
-{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+{% if page.tags %}
+<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
-<link rel="shortcut icon" href="https://micro.blog/{{ site.username }}/favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
 
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-{% if site.podcast %}
-<link rel="alternate" type="application/rss+xml" title="Podcast" href="{{ "/podcast.xml" | prepend: site.baseurl | prepend: site.url }}" />
-{% endif %}
-<link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
-<link rel="EditURI" type="application/rsd+xml" href="{{ site.baseurl }}/rsd.xml" />
-
-{% if site.twitter_username != "" %}
-<link rel="me" href="https://twitter.com/{{ site.twitter_username }}" />
-{% endif %}
-{% if site.github_username != "" %}
-<link rel="me" href="https://github.com/{{ site.github_username }}" />
-{% endif %}
-{% if site.instagram_username != "" %}
-<link rel="me" href="https://instagram.com/{{ site.instagram_username }}" />
-{% endif %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.baseurl | prepend: site.url }}" /> {% if site.podcast %}
+<link rel="alternate" type="application/rss+xml" title="Podcast" href="{{ " /podcast.xml " | prepend: site.baseurl | prepend: site.url }}" /> {% endif %}
+<link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ " /feed.json " | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="EditURI" type="application/rsd+xml" href="{{ site.baseurl }}/rsd.xml" /> {% if site.twitter_username != "" %}
+<link rel="me" href="https://twitter.com/{{ site.twitter_username }}" /> {% endif %} {% if site.github_username != "" %}
+<link rel="me" href="https://github.com/{{ site.github_username }}" /> {% endif %} {% if site.instagram_username != "" %}
+<link rel="me" href="https://instagram.com/{{ site.instagram_username }}" /> {% endif %}
