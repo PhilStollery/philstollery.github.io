@@ -13,7 +13,7 @@ I could not get it to build - the errors:
 7:41:05 PM: Error during gem install<br/>
 7:41:05 PM: Error running command: Build script returned non-zero exit code: 1<br/>
 7:41:05 PM: Failing build: Failed to build site<br/>
-7:41:05 PM: failed during stage 'building site': Build script<br/>
+7:41:05 PM: failed during stage 'building site': Build script
 returned non-zero exit code: 1<br/>
 
 The Gemfile.lock had this line at the bottom:
