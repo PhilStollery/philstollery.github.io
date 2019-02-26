@@ -27,7 +27,7 @@ BUNDLED WITH
 So what was wrong, I was building my site with Bundler 2. The problem was I was building with Bundler 2, but Netlify build servers are currently using 1.17.1. Thus Netlify build servers are currently out of date. So on my machine, the fix is to run gem uninstall bundler and then use:
 
 ```bash
-gem install -v 1.17.1
+gem install bundler -v 1.17.1
 ```
 
 Delete the Gemfile.lock, and re-run:
