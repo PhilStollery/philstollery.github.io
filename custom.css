@@ -8,10 +8,10 @@ body p a {
 	background: #CCC;
 	margin-top: 4px;
 	padding: 0 4px;
-    text-decoration: none;
+	text-decoration: none;
 }
 
-body p a:hover {
+body a:hover {
 	color: #000;
 	background: #FFF;
 	margin-top: 4px;
@@ -19,10 +19,11 @@ body p a:hover {
 	text-decoration: none;
 }
 
-.navigation a:hover {
-  color: #FFF;
+a:hover {
+	color: #FFF;
 }
 
-h1 a:hover {
-  color: #FFF;
+li {
+	font-size: 20px;
+	line-height: 32px;	
 }
