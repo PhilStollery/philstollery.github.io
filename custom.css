@@ -3,6 +3,10 @@ body { font-family: "Inconsolata"; color: #CCC; background-color: #000; }
 .post-teaser__title { font-size: 22px; color: #CCC; }
 strong { color: #CCC; }
 
+a:hover {
+	color: #FFF;
+}
+
 body p a {
 	color: #000;
 	background: #CCC;
