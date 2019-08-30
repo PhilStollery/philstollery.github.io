@@ -11,7 +11,7 @@ body p a {
 	text-decoration: none;
 }
 
-body a:hover {
+body p a:hover {
 	color: #000;
 	background: #FFF;
 	margin-top: 4px;
