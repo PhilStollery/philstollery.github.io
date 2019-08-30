@@ -1,7 +1,7 @@
 Edited version of the below.
 
 # Daktilo
-Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
+Daktilo is a [Jekyll](http://jekyllrb.com) theme with a minimal design inspired from typewriters.
 
 # More info and Live preview
 [Click here](http://daktilo.github.io/) to see the theme in action.
