@@ -10,7 +10,7 @@ I’ve been working with Microsoft Technologies since [1997](https://www.youtube
 
 I have designed, implemented, and managed OLTP, data warehousing, and OLAP data systems. During these projects, I was able to flex multiple disciplines. From database design, ETL, Power BI, and reporting.
 
-My most recent experience has focused on creating technical content to help get other developers up-to-speed. Recent projects include writing instructor-led content for courses focused on ([SQL Server](https://www.microsoft.com/en-us/learning/sql-training.aspx "I contributed to some courses"), both on-premises and in Azure.
+My most recent experience has focused on creating technical content to help get other developers up-to-speed. Recent projects include writing instructor-led content for courses focused on [SQL Server](https://www.microsoft.com/en-us/learning/sql-training.aspx "I contributed to some courses"), both on-premises and in Azure.
 
 If you’re curious about this blog's tech - here's the breakdown:
 
