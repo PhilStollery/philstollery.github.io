@@ -16,7 +16,7 @@ If you’re curious about this blog's tech - here's the breakdown:
 
 - Static HTML managed by [Jekyll](https://jekyllrb.com) 
 - Source markdown hosted on [GitHub](https://github.com/PhilStollery/philstollery.github.io)
-- Hosted free on [Netlify](https://www.netlify.com/pricing/) - this is amazing, push change to GitHub, Netlify runs Jekyll, and publishes changes
+- Hosted free on [Netlify](https://www.netlify.com/pricing/) - this is amazing, push a change to GitHub, Netlify runs Jekyll, and then automatically pushes those changes live
 - Live CMS editing of posts with [Netlify CMS](https://www.netlifycms.org)
 - Theme based on [Daktilo](http://daktilo.github.io) with dark mode swithced on by me
 
