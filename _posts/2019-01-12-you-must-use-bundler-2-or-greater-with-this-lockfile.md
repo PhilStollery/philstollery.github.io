@@ -40,7 +40,7 @@ You should now have this in the Gemfile.lock:
 
 ```bash
 BUNDLED WITH
-   1.17.2
+   1.17.1
 ```
 
 Push to GitHub and the build should work.
